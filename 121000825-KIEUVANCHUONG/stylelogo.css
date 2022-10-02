@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+    height:1200px;
+}
+.chuong{
+    display: flex;
+    justify-content: space-between;
+    height:80px;
+}
+.hihi{
+   background-color: #E9EDF0;
+   width:100%;
+   height: 100%;
+}
+.row{
+
+   padding-top: 100px;
+   text-align: center;
+    
+}
+form{
+    width:400px;
+    height:600px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.hello{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.form-control{
+    width:380px;
+    margin: 0 auto;
+    
+}
+.box{
+   padding-right: 20px;
+   width:180px;
+   height:80px;
+   border: 1px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+   margin-left: 10px;
+
+}
+.nut{
+    width:370px;
+    height:47px;
+    background-color: #170EFF;
+    color:white;
+    border: none;
+    border-radius: 5px ;
+}
+.nut1{
+    width:370px;
+    height:47px;
+    
+    color:#170EFF;
+    border:  1px solid #170EFF;
+    border-radius: 5px ;    
+}
